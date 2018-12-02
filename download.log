@@ -1,0 +1,321 @@
+11/28/2018 04:28:58 PM [INFO]	: Existing directory found. Removing ./files/ and all its contents.
+11/28/2018 04:28:58 PM [INFO]	: Fetching M1L1.pdf
+11/28/2018 04:28:59 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:28:59 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M1L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:28:59 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:28:59 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M1L1.pdf HTTP/1.1" 200 420813
+11/28/2018 04:28:59 PM [INFO]	: Fetch successful.
+11/28/2018 04:28:59 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:01 PM [INFO]	: File M1L1.pdf saved successfully.
+11/28/2018 04:29:01 PM [INFO]	: Fetching M1L2.pdf
+11/28/2018 04:29:01 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:01 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M1L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:01 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:01 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M1L2.pdf HTTP/1.1" 200 199269
+11/28/2018 04:29:01 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:01 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:01 PM [INFO]	: File M1L2.pdf saved successfully.
+11/28/2018 04:29:01 PM [INFO]	: Fetching M2L1.pdf
+11/28/2018 04:29:01 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:01 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:01 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:01 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L1.pdf HTTP/1.1" 200 518967
+11/28/2018 04:29:01 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:01 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:04 PM [INFO]	: File M2L1.pdf saved successfully.
+11/28/2018 04:29:04 PM [INFO]	: Fetching M2L2.pdf
+11/28/2018 04:29:04 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:04 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:04 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:04 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L2.pdf HTTP/1.1" 200 287144
+11/28/2018 04:29:04 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:04 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:05 PM [INFO]	: File M2L2.pdf saved successfully.
+11/28/2018 04:29:05 PM [INFO]	: Fetching M2L3.pdf
+11/28/2018 04:29:05 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:05 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:05 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:05 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L3.pdf HTTP/1.1" 200 190953
+11/28/2018 04:29:05 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:05 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:06 PM [INFO]	: File M2L3.pdf saved successfully.
+11/28/2018 04:29:06 PM [INFO]	: Fetching M2L4.pdf
+11/28/2018 04:29:06 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:06 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L4.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:06 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:06 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L4.pdf HTTP/1.1" 200 834742
+11/28/2018 04:29:06 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:06 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:09 PM [INFO]	: File M2L4.pdf saved successfully.
+11/28/2018 04:29:09 PM [INFO]	: Fetching M2L5.pdf
+11/28/2018 04:29:09 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:09 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L5.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:09 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:10 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L5.pdf HTTP/1.1" 200 653116
+11/28/2018 04:29:10 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:10 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:13 PM [INFO]	: File M2L5.pdf saved successfully.
+11/28/2018 04:29:13 PM [INFO]	: Fetching M2L6.pdf
+11/28/2018 04:29:13 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:13 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L6.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:13 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:13 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L6.pdf HTTP/1.1" 200 380251
+11/28/2018 04:29:13 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:13 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:15 PM [INFO]	: File M2L6.pdf saved successfully.
+11/28/2018 04:29:15 PM [INFO]	: Fetching M2L7.pdf
+11/28/2018 04:29:15 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:15 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M2L7.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:15 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:16 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M2L7.pdf HTTP/1.1" 200 532914
+11/28/2018 04:29:16 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:16 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:18 PM [INFO]	: File M2L7.pdf saved successfully.
+11/28/2018 04:29:18 PM [INFO]	: Fetching M3L1.pdf
+11/28/2018 04:29:18 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:18 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M3L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:18 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:18 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M3L1.pdf HTTP/1.1" 200 402592
+11/28/2018 04:29:18 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:18 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:20 PM [INFO]	: File M3L1.pdf saved successfully.
+11/28/2018 04:29:20 PM [INFO]	: Fetching M3L2.pdf
+11/28/2018 04:29:20 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:20 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M3L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:20 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:20 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M3L2.pdf HTTP/1.1" 200 410690
+11/28/2018 04:29:20 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:20 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:22 PM [INFO]	: File M3L2.pdf saved successfully.
+11/28/2018 04:29:22 PM [INFO]	: Fetching M3L3.pdf
+11/28/2018 04:29:22 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:22 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M3L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:22 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:22 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M3L3.pdf HTTP/1.1" 200 377710
+11/28/2018 04:29:22 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:22 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:24 PM [INFO]	: File M3L3.pdf saved successfully.
+11/28/2018 04:29:24 PM [INFO]	: Fetching M3L4.pdf
+11/28/2018 04:29:24 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:24 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M3L4.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:24 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:24 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M3L4.pdf HTTP/1.1" 200 139242
+11/28/2018 04:29:24 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:24 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:24 PM [INFO]	: File M3L4.pdf saved successfully.
+11/28/2018 04:29:24 PM [INFO]	: Fetching M4L1.pdf
+11/28/2018 04:29:24 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:24 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M4L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:24 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:24 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M4L1.pdf HTTP/1.1" 200 324028
+11/28/2018 04:29:24 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:24 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:26 PM [INFO]	: File M4L1.pdf saved successfully.
+11/28/2018 04:29:26 PM [INFO]	: Fetching M4L2.pdf
+11/28/2018 04:29:26 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:26 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M4L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:26 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:26 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M4L2.pdf HTTP/1.1" 200 231091
+11/28/2018 04:29:26 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:26 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:27 PM [INFO]	: File M4L2.pdf saved successfully.
+11/28/2018 04:29:27 PM [INFO]	: Fetching M4L3.pdf
+11/28/2018 04:29:27 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:27 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M4L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:27 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:27 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M4L3.pdf HTTP/1.1" 200 276006
+11/28/2018 04:29:27 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:27 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:28 PM [INFO]	: File M4L3.pdf saved successfully.
+11/28/2018 04:29:28 PM [INFO]	: Fetching M4L4.pdf
+11/28/2018 04:29:28 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:28 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M4L4.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:28 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:28 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M4L4.pdf HTTP/1.1" 200 110017
+11/28/2018 04:29:28 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:28 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:29 PM [INFO]	: File M4L4.pdf saved successfully.
+11/28/2018 04:29:29 PM [INFO]	: Fetching M4L5.pdf
+11/28/2018 04:29:29 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:29 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M4L5.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:29 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:29 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M4L5.pdf HTTP/1.1" 200 174439
+11/28/2018 04:29:29 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:29 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:29 PM [INFO]	: File M4L5.pdf saved successfully.
+11/28/2018 04:29:29 PM [INFO]	: Fetching M4L6.pdf
+11/28/2018 04:29:29 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:29 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M4L6.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:29 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:29 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M4L6.pdf HTTP/1.1" 200 207224
+11/28/2018 04:29:29 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:29 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:30 PM [INFO]	: File M4L6.pdf saved successfully.
+11/28/2018 04:29:30 PM [INFO]	: Fetching M5L1.pdf
+11/28/2018 04:29:30 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:30 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:30 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:30 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L1.pdf HTTP/1.1" 200 115620
+11/28/2018 04:29:30 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:30 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:31 PM [INFO]	: File M5L1.pdf saved successfully.
+11/28/2018 04:29:31 PM [INFO]	: Fetching M5L2.pdf
+11/28/2018 04:29:31 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:31 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:31 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:31 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L2.pdf HTTP/1.1" 200 368606
+11/28/2018 04:29:31 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:31 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:32 PM [INFO]	: File M5L2.pdf saved successfully.
+11/28/2018 04:29:32 PM [INFO]	: Fetching M5L3.pdf
+11/28/2018 04:29:32 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:32 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:32 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:33 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L3.pdf HTTP/1.1" 200 187651
+11/28/2018 04:29:33 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:33 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:33 PM [INFO]	: File M5L3.pdf saved successfully.
+11/28/2018 04:29:33 PM [INFO]	: Fetching M5L4.pdf
+11/28/2018 04:29:33 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:33 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L4.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:33 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:33 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L4.pdf HTTP/1.1" 200 165349
+11/28/2018 04:29:33 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:33 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:34 PM [INFO]	: File M5L4.pdf saved successfully.
+11/28/2018 04:29:34 PM [INFO]	: Fetching M5L5.pdf
+11/28/2018 04:29:34 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:34 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L5.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:34 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:34 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L5.pdf HTTP/1.1" 200 359089
+11/28/2018 04:29:34 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:34 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:36 PM [INFO]	: File M5L5.pdf saved successfully.
+11/28/2018 04:29:36 PM [INFO]	: Fetching M5L6.pdf
+11/28/2018 04:29:36 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:36 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L6.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:36 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:36 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L6.pdf HTTP/1.1" 200 350130
+11/28/2018 04:29:36 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:36 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:37 PM [INFO]	: File M5L6.pdf saved successfully.
+11/28/2018 04:29:37 PM [INFO]	: Fetching M5L7.pdf
+11/28/2018 04:29:37 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:37 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L7.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:37 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:37 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L7.pdf HTTP/1.1" 200 360297
+11/28/2018 04:29:37 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:37 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:39 PM [INFO]	: File M5L7.pdf saved successfully.
+11/28/2018 04:29:39 PM [INFO]	: Fetching M5L8.pdf
+11/28/2018 04:29:39 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:39 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L8.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:39 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:39 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L8.pdf HTTP/1.1" 200 182884
+11/28/2018 04:29:39 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:39 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:40 PM [INFO]	: File M5L8.pdf saved successfully.
+11/28/2018 04:29:40 PM [INFO]	: Fetching M5L9.pdf
+11/28/2018 04:29:40 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:40 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L9.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:40 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:40 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L9.pdf HTTP/1.1" 200 623712
+11/28/2018 04:29:40 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:40 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:42 PM [INFO]	: File M5L9.pdf saved successfully.
+11/28/2018 04:29:42 PM [INFO]	: Fetching M5L10.pdf
+11/28/2018 04:29:42 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:42 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M5L10.pdf HTTP/1.1" 302 312
+11/28/2018 04:29:42 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:42 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M5L10.pdf HTTP/1.1" 200 681640
+11/28/2018 04:29:42 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:42 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:45 PM [INFO]	: File M5L10.pdf saved successfully.
+11/28/2018 04:29:45 PM [INFO]	: Fetching M6L1.pdf
+11/28/2018 04:29:45 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:45 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M6L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:45 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:45 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M6L1.pdf HTTP/1.1" 200 782431
+11/28/2018 04:29:45 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:45 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:49 PM [INFO]	: File M6L1.pdf saved successfully.
+11/28/2018 04:29:49 PM [INFO]	: Fetching M6L2.pdf
+11/28/2018 04:29:49 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:49 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M6L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:49 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:49 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M6L2.pdf HTTP/1.1" 200 578903
+11/28/2018 04:29:49 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:49 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:51 PM [INFO]	: File M6L2.pdf saved successfully.
+11/28/2018 04:29:51 PM [INFO]	: Fetching M6L3.pdf
+11/28/2018 04:29:51 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:51 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M6L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:51 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:51 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M6L3.pdf HTTP/1.1" 200 629394
+11/28/2018 04:29:51 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:51 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:54 PM [INFO]	: File M6L3.pdf saved successfully.
+11/28/2018 04:29:54 PM [INFO]	: Fetching M7L1.pdf
+11/28/2018 04:29:54 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:54 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M7L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:54 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:54 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M7L1.pdf HTTP/1.1" 200 187301
+11/28/2018 04:29:54 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:54 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:55 PM [INFO]	: File M7L1.pdf saved successfully.
+11/28/2018 04:29:55 PM [INFO]	: Fetching M7L2.pdf
+11/28/2018 04:29:55 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:55 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M7L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:55 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:55 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M7L2.pdf HTTP/1.1" 200 119844
+11/28/2018 04:29:55 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:55 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:55 PM [INFO]	: File M7L2.pdf saved successfully.
+11/28/2018 04:29:55 PM [INFO]	: Fetching M7L3.pdf
+11/28/2018 04:29:55 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:55 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M7L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:55 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:55 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M7L3.pdf HTTP/1.1" 200 130808
+11/28/2018 04:29:55 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:55 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:56 PM [INFO]	: File M7L3.pdf saved successfully.
+11/28/2018 04:29:56 PM [INFO]	: Fetching M7L4.pdf
+11/28/2018 04:29:56 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:56 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M7L4.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:56 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:56 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M7L4.pdf HTTP/1.1" 200 157930
+11/28/2018 04:29:56 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:56 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:57 PM [INFO]	: File M7L4.pdf saved successfully.
+11/28/2018 04:29:57 PM [INFO]	: Fetching M7L5.pdf
+11/28/2018 04:29:57 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:57 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M7L5.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:57 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:57 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M7L5.pdf HTTP/1.1" 200 339585
+11/28/2018 04:29:57 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:57 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:29:58 PM [INFO]	: File M7L5.pdf saved successfully.
+11/28/2018 04:29:58 PM [INFO]	: Fetching M8L1.pdf
+11/28/2018 04:29:58 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:29:58 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M8L1.pdf HTTP/1.1" 302 311
+11/28/2018 04:29:58 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:29:58 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M8L1.pdf HTTP/1.1" 200 883172
+11/28/2018 04:29:58 PM [INFO]	: Fetch successful.
+11/28/2018 04:29:58 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:30:02 PM [INFO]	: File M8L1.pdf saved successfully.
+11/28/2018 04:30:02 PM [INFO]	: Fetching M8L2.pdf
+11/28/2018 04:30:02 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:30:02 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M8L2.pdf HTTP/1.1" 302 311
+11/28/2018 04:30:02 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:30:02 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M8L2.pdf HTTP/1.1" 200 556794
+11/28/2018 04:30:02 PM [INFO]	: Fetch successful.
+11/28/2018 04:30:02 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:30:04 PM [INFO]	: File M8L2.pdf saved successfully.
+11/28/2018 04:30:04 PM [INFO]	: Fetching M8L3.pdf
+11/28/2018 04:30:04 PM [DEBUG]	: Starting new HTTP connection (1): nptel.ac.in:80
+11/28/2018 04:30:04 PM [DEBUG]	: http://nptel.ac.in:80 "GET /courses/106105080/pdf/M8L3.pdf HTTP/1.1" 302 311
+11/28/2018 04:30:04 PM [DEBUG]	: Starting new HTTPS connection (1): nptel.ac.in:443
+11/28/2018 04:30:04 PM [DEBUG]	: https://nptel.ac.in:443 "GET /courses/106105080/pdf/M8L3.pdf HTTP/1.1" 200 134955
+11/28/2018 04:30:04 PM [INFO]	: Fetch successful.
+11/28/2018 04:30:04 PM [INFO]	: Saving file to local disk.
+11/28/2018 04:30:05 PM [INFO]	: File M8L3.pdf saved successfully.
